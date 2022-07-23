@@ -1,0 +1,87 @@
+Script started on 2022-07-12 14:01:33-07:00
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week1corey.lee@vmcslinuxprod01:~/CS161B/week1 $ ./a01_resubmit
+***** Welcomoe to Mint Mobile ***** 
+
+Let's calculate your monthly bill! 
+
+S: 2GB $35/mo* 
+
+M: 4GB $50/mo* 
+
+L: 8GB $70/mo* 
+
+U: Unlimited $75/mo* 
+
+*Overage charges $15 per GB 
+
+Which plan are you on: 
+fd
+Invalid answer
+Which plan are you on: 
+L
+How many GB did you use last month?
+8.4
+Plan charges: $70.00
+Overage charges: $15.00
+Total charges: $85.00
+Save $10.00 by switching to unlimited!
+Would you like to run the program again?
+fgd
+Invalid input, Please try again.
+Would you like to run the program again?
+y
+***** Welcomoe to Mint Mobile ***** 
+
+Let's calculate your monthly bill! 
+
+S: 2GB $35/mo* 
+
+M: 4GB $50/mo* 
+
+L: 8GB $70/mo* 
+
+U: Unlimited $75/mo* 
+
+*Overage charges $15 per GB 
+
+Which plan are you on: 
+M
+How many GB did you use last month?
+-3
+Invalid answer
+How many GB did you use last month?
+4
+Plan charges: $50.00
+Total charges: $50.00
+Would you like to run the program again?
+y y
+***** Welcomoe to Mint Mobile ***** 
+
+Let's calculate your monthly bill! 
+
+S: 2GB $35/mo* 
+
+M: 4GB $50/mo* 
+
+L: 8GB $70/mo* 
+
+U: Unlimited $75/mo* 
+
+*Overage charges $15 per GB 
+
+Which plan are you on: 
+re  s
+How many GB did you use last month?
+3 2.9
+Plan charges: $35.00
+Overage charges: $15.00
+Total charges: $50.00
+Would you like to run the program again?
+n
+Thank you for choosing Mint Mobile
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week1corey.lee@vmcslinuxprod01:~/CS161B/week1 $ nd of non-void function [-Wret           urn-typee]
+bash: nd: command not found
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week1corey.lee@vmcslinuxprod01:~/CS161B/week1 $ exit
+exit
+
+Script done on 2022-07-12 14:03:03-07:00
